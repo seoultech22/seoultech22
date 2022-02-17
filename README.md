@@ -1,5 +1,7 @@
 -seoultech AAI 22
+
 -start: 2022-02-18
+
 -youngjoon1126@gmail.com
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seoultechai22)](https://solved.ac/seoultechai22/)
